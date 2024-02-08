@@ -1,2 +1,2 @@
 # ToDoShka
-Simple tod od list made by Maxim Kotsyuba in cooperation with Google and the GPT chat
+Simple tod do list made by Maxim Kotsyuba in cooperation with Google and the GPT chat
